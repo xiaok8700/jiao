@@ -1,0 +1,704 @@
+[ 2016-09-11T19:53:09+08:00 ] ::1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000966s ]
+
+[ 2016-09-11T19:53:31+08:00 ] ::1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 130 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001489s ]
+
+[ 2016-09-11T19:53:31+08:00 ] ::1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001229s ]
+
+[ 2016-09-11T20:29:45+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002130s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [8] Undefined index: quanxian D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 129 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001884s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001971s ]
+
+[ 2016-09-11T20:30:11+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009587s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 130 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002491s ]
+
+[ 2016-09-11T20:30:11+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-09-11T20:30:17+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010257s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 130 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010991s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002255s ]
+
+[ 2016-09-11T20:30:18+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-09-11T20:30:20+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001074s ]
+
+[ 2016-09-11T20:30:21+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-11T20:30:23+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-09-11T20:30:23+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-09-11T20:30:24+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-09-11T20:30:25+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Ycl/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-09-11T20:30:33+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Ycl/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-09-11T20:30:34+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-09-11T20:30:42+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 130 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2016-09-11T20:30:42+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-09-11T20:30:54+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001249s ]
+
+[ 2016-09-11T20:30:57+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+
+[ 2016-09-11T20:32:08+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001397s ]
+
+[ 2016-09-11T20:32:24+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022943s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002760s ]
+
+[ 2016-09-11T20:33:50+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Index/yanzheng.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\xampp\htdocs\jiaowu\Application\Admin\Controller\IndexController.class.php 第 130 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2016-09-11T20:33:50+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001233s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000944s ]
+
+[ 2016-09-11T20:33:52+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2016-09-11T20:33:53+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001422s ]
+
+[ 2016-09-11T20:33:53+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Ycl/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-09-11T20:34:19+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-09-11T20:34:21+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/find
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2016-09-11T20:34:22+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/insert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+NOTIC: [2] mysql_num_rows() expects parameter 1 to be resource, boolean given D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001883s ]
+
+[ 2016-09-11T20:34:24+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-09-11T20:34:26+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Gzht/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009332s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-09-11T20:34:26+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Ycl/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+NOTIC: [8192] mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\jiaowu\ThinkPHP\sql\DbMysql.class.php 第 66 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-09-11T20:34:31+08:00 ] 127.0.0.1 /jiaowu/index.php/Admin/Editor/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+

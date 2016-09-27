@@ -1,0 +1,96 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>教室多媒体管理中心</title>
+	<link rel="stylesheet" type="text/css" href="/jiaowu/Public/home/css/common.css">
+	<link rel="stylesheet" type="text/css" href="/jiaowu/Public/home/css/article.css">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>Bootstrap 101 Template</title>
+
+    <!-- Bootstrap -->
+    <link href="/jiaowu/Public/home/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body style="background: #BDD6F4">
+	<div id="container">
+		<div id="banner">
+			<img src="/jiaowu/Public/home/images/logo.png">
+			<ul>
+				<li><a href="<?php echo ($adress["index"]); ?>">首页</a></li>
+				<li><a href="<?php echo ($adress["notice"]); ?>">通知公告</a></li>
+				<li><a href="#">设备参数查询</a></li>
+				<li><a href="#">设备资产查询</a></li>
+				<li><a href="#">故障报修</a></li>
+				<li><a href="#">联系我们</a></li>
+			</ul>
+		</div>
+		<div id="scroll"></div>
+		<div id="content">
+			<div class="conLeft">
+				<p class="title"><?php echo ($content["timu"]); ?></p>
+				<p class="time">发布时间：<?php echo ($content["time"]); ?></p>
+				<div>
+					<p><?php echo ($content["content"]); ?></p>
+				</div>
+			</div>
+			<div class="conRight">
+				<div class="rightTop">
+					<img src="/jiaowu/Public/home/images/denglu.png"><br/><br/>
+					用户名：<input type="text" id="userName" name="userName" size="16"><br/><br/>
+					密　码：<input type="password" id="password" name="password" size="16">
+					<input type="image" src="/jiaowu/Public/home/images/bt1.png" class="bt">
+					<input type="image" src="/jiaowu/Public/home/images/bt2.png" class="bt">
+				</div>
+				<div class="rightCenter">
+					<div class="dateTime">
+				        <object type="application/x-shockwave-flash" style="outline: none;" data="http://www.since2014.com.cn/wp-content/plugins/homehomeclock/flash/homehomeclocktr.swf?" width="230" height="120">
+				            <param name="movie" value="http://www.since2014.com.cn/wp-content/plugins/homehomeclock/flash/homehomeclocktr.swf?" />
+				            <param name="AllowScriptAccess" value="always" />
+				            <param name="wmode" value="opaque" />
+				            <param name="bgcolor" value="" />
+				        </object>
+			        </div>
+				</div>
+				<div class="rightBottom">
+					<ul>
+						<li><a href="#">河北科技师范学院官网</a></li>
+						<li><a href="#">河北科技师范学院教务处</a></li>
+						<li><a href="#">河北科技师范学院教务系统</a></li>
+						<li><a href="#">河北省教育考试院</a></li>
+						<li><a href="#">河北省教育考试院</a></li>
+						<li><a href="#">河北省教育考试院</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<hr width="950" align="center">
+		<div id="footer">
+			<p>Copyright 2016 All rights reserved</p>
+			<p>版权所有：河北科技师范学院 多媒体管理中心 制作维护</p>
+		</div>
+	</div>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/jiaowu/Public/home/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    	$(function(){
+		$('.carousel').carousel({
+		interval: 2000
+		});
+		});
+    </script>
+</body>
+
+</html>

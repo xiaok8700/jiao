@@ -1,0 +1,635 @@
+[ 2016-07-26T07:34:10+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010423s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined variable: timu H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.035966s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.036024s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022625s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028500s ]
+
+[ 2016-07-26T07:36:19+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined variable: timu H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000316s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-07-26T07:36:21+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined variable: timu H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-07-26T07:37:52+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-07-26T07:46:12+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+NOTIC: [8] Array to string conversion H:\WWW\www\jiaowu\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-07-26T07:47:31+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-07-26T07:49:29+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-07-26T07:49:38+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/Home/Index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:Home
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-07-26T07:49:42+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/Home/Index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:Home
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-07-26T07:52:08+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-07-26T07:52:10+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-07-26T07:53:03+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000242s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-07-26T07:53:06+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000504s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001150s ]
+
+[ 2016-07-26T07:57:24+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000294s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-07-26T07:57:25+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-07-26T07:58:10+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-07-26T07:59:21+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2016-07-26T07:59:29+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-07-26T08:01:01+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007513s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001564s ]
+
+[ 2016-07-26T08:02:13+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000911s ]
+
+[ 2016-07-26T08:04:11+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-07-26T08:05:27+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2016-07-26T08:05:28+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-07-26T08:05:35+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2016-07-26T08:05:38+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-07-26T08:06:42+08:00 ] 127.0.0.1 /jiaowu/index.php/Home/Index/article/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' H:\WWW\www\jiaowu\Application\Home\Controller\IndexController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at H:\WWW\www\jiaowu\ThinkPHP\sql\Model.class.php:1) H:\WWW\www\jiaowu\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+

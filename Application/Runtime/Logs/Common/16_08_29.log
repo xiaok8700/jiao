@@ -1,0 +1,54 @@
+[ 2016-08-29T08:31:03+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:31:04+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:31:04+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:47:38+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:47:38+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:47:38+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:47:46+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002542s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:47:46+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-29T08:47:46+08:00 ] 127.0.0.1 /jiaowu/Public/home/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+

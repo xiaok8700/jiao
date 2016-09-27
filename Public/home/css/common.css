@@ -1,0 +1,156 @@
+@charset:utf-8;
+body,p,ul,li,table{
+	padding:0px;
+	margin:0px;
+}
+#container{
+	width:950px;
+	background:#F4F8FD;
+	margin:0 auto;
+	overflow: hidden;
+}
+#banner{
+	background:url(../images/banner.png) no-repeat;
+	width:100%;
+	height:150px;
+}
+#banner img{
+	margin:0px 10px;
+}
+#banner ul{
+	list-style: none;
+	width:100%;
+	height:48px;
+	background:#7C91BC;
+	line-height:48px;
+}
+#banner li{
+	float:left;
+}
+#banner a{
+	font-family:"微软雅黑";
+	font-size:20px;
+	margin:0px 27px;
+	padding:0px 8px;
+	color:#FFFFFF;
+	height:48px;
+	display:block;
+	text-decoration:none;
+}
+#banner ul li a:hover{
+	color:#7C91BC;
+	background:#E6EDF5;
+}
+#scroll{
+	height:25px;
+	background:#BDD6F4;
+}
+#content{
+	width:910px;
+	margin: auto;
+}
+.tongzhi{
+	float:left;
+	padding-left:5px;
+}
+.shijian{
+	float:right;
+	padding-right:5px;
+}
+.conRight{
+	width:240px;
+	margin-left:20px;
+	float:left;
+	margin-top:20px;
+}
+.rightTop0{
+	background:url(../images/new.png) no-repeat;
+	padding-left: 15px;
+	padding-top: 40px;
+}
+.rightTop0 ul{
+	list-style-type:none;
+}
+.rightTop0 li{
+	height:30px;
+	border-bottom:1px dashed #666;
+	line-height:40px;
+	background:url(../images/li.png) no-repeat;
+	font-size:14px;
+}
+.rightTop0 ul a:link,.rightTop0 ul a:visited{
+	color:#666;
+	text-decoration: none;
+	padding-left:20px;
+}
+.rightTop0 ul a:hover{
+	color:#00f;
+}
+
+.rightTop{
+	background:url(../images/yonghudenglu.png) no-repeat;
+	padding-left: 15px;
+	padding-top: 45px;
+}
+.rightTop img{
+	margin-top:45px;
+}
+.rightTop input{
+	margin-left:5px;
+	height: 20px;
+	margin: 5px 0;
+}
+
+.rightTop .bt{
+	margin:20px;
+}
+.rightCenter{
+	background:url(../images/date.png) no-repeat;
+	height:260px;
+	margin-top:20px;
+}
+.rightBottom{
+	background:url(../images/link.png) no-repeat;
+	height: 259px;
+	margin-top:20px;
+}
+.rightCenter .dateTime{
+	padding-top:55px;
+	width:230px;
+	margin:0 auto;
+}
+.rightBottom ul{
+	list-style: none;
+	padding:50px 15px;
+}
+.rightBottom li{
+	height:30px;
+	border-bottom:1px dashed #666;
+	line-height:40px;
+	background:url(../images/li.png) no-repeat;
+	font-size:14px;
+}
+.rightBottom ul a:link,.rightBottom ul a:visited{
+	color:#666;
+	text-decoration: none;
+	padding-left:20px;
+}
+.rightBottom ul a:hover{
+	color:#00f;
+}
+#footer{
+	background: url(../images/foot.png) no-repeat;
+	height:60px;
+	text-align: center;
+}
+#footer p{
+	font-size:16px;
+	color:#00f;
+	font-family:"微软雅黑";
+}
+#page{
+	text-align: center;
+}
+#page a{
+	padding: 0 30px;
+}

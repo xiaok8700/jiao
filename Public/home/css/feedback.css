@@ -1,0 +1,41 @@
+    /*Reset*/
+    body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{padding:0;margin:0;}
+    body,button,input,textarea{font:12px/1.8 "宋体";}
+    ol,ul{list-style:none;}
+    h1,h2,h3,h4,h5,h6{font-size:100%;}
+    fieldset,img{border:0;vertical-align:top;}
+    table{border-collapse:collapse;border-spacing:0;}
+    address,caption,cite,code,dfn,em,th,var{font-weight:normal;font-style:normal;}
+    a{text-decoration:none;cursor:pointer;color:#1f64cd;}
+    a:hover{text-decoration:none;color:#1f64cd;}
+    body{color:#333333;}
+    input,select{ vertical-align:middle;}
+    .boxt,.boxb,.btn,.btn1{ background:url(../images/imgbg.png) no-repeat;}
+    .wrap{ width:800px; margin:0 auto; min-height:700px; height:_700px; padding:2px 0; position:relative;}
+    .left{ float:left; width:798px;}
+    .boxt{ height:60px; padding:5px 210px 9px 62px; line-height:23px; }
+    .boxt h2{ font-size:14px; color:#17628e; padding:8px 0 5px;}
+    .boxt img{ float:left; margin-right:13px;}
+    .boxc{ clear:both; overflow:hidden; zoom:1; background:url(../images/ry1.png) repeat-y;}
+    .boxb{ clear:both; height:11px; overflow:hidden; background-position:0 -131px;}
+    .boxc h3{ height:20px; line-height:20px; padding:2px 0 3px 77px;}
+    .boxc h3 em{ font-weight:normal; color:#898989;}
+    .boxc ul{ float:left; padding-left:85px;  width:270px;}
+    .boxc li{ padding:1px 0; display:block;}
+    .boxc li span{ display:block; padding-left:17px;}
+    .boxc p{ clear:both; padding:2px 0 8px 77px;}
+    .line{ clear:both; overflow:hidden; zoom:1; margin:13px 0 13px; height:2px; background:url(../images/line.png) no-repeat center top;}
+    .txt{ width:550px; height:80px; border:1px solid #abbdc7; margin-bottom:2px;}
+    .sel{ width:65px; height:25px; line-height:25px; font-size:14px;}
+    .ipt,.ipt1{ width:251px; height:25px; line-height:25px; border:1px solid #abbdc7;}
+    .ipt1{ width:240px;}
+    .ipt2{ width:217px; height:22px; line-height:22px; border:1px solid #abbdc7; color:#959595; padding-left:3px;}
+    .boxc li .cur{color:#333333;}
+    .btn{ width:100px; height:32px; line-height:32px; background-position:0 -143px; border:none; cursor:pointer; font-size:14px; font-weight:bold; color:#17628e; margin-left:90px;}
+    .foot{ clear:both; padding:10px 0 13px 25px;}
+    .foot a{ color:#17628e;}
+    .boxr{ padding:30px 17px 0;}
+    .boxr p{ padding:7px 0 0;}
+    .boxr h3{ border-bottom:1px solid #959595; height:23px; line-height:23px; padding:0 0 5px 0;}
+    .boxr span{ display:block; text-align:right;}
+    .btn1{ width:126px; height:26px; background-position:0 -176px; border:none; cursor:pointer; text-align:center; line-height:26px; margin-top:5px;}

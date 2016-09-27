@@ -1,0 +1,350 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="/jiaowu/Public/home/css/feedback.css"/>
+<meta charset="utf-8" />
+<script type="text/javascript">
+	function form(id,sp){
+	var btn=document.getElementsByName(id);
+	var span1=document.getElementById(sp);
+	for(var i=0;i<btn.length;i++){
+		btn[i].index=i;
+		btn[i].onchange=function(){
+			if(btn[0].checked==true){
+				for(var j=1;j<btn.length;j++){
+					btn[j].checked=false;
+				} 
+				this.checked=true;
+			}
+			if(this.index==1||this.index==2||this.index==3){
+				btn[0].checked=false;
+			}
+			if(btn[3].checked==true){
+				span1.style.display="block";
+			}else{span1.style.display="none";}
+		
+		
+		}
+		}
+	
+
+	}
+</script>
+<script type="text/javascript">
+function g(id) {
+	return document.getElementById(id);
+}
+function close_window() {
+	window.close();
+}
+</script>
+</head>
+<body>
+<div class="wrap">
+	<div class="left">
+		<div class="boxt">
+			<h2>河北科技师范学院多媒体管理中心设备使用反馈表！</h2>
+			<p>我们希望了解您在使用设备过程中遇到的问题和您对我们的意见和建议，以便我们不断的改进服务</p>
+		</div> 
+<div class="boxc">
+	<p>请您输入您的工号：<input id="name" type="text"  style="height: 18px; width:80px;"/>
+	<span id="tname" style="font-weight: 900; color: red;" ></span>
+	请选择您所在的教室
+	<select id="select">
+		<option value="">请选择教室</option>
+		<option value="A103">A103</option>
+		<option value="A105">A105</option>
+		<option value="A107">A107</option>
+		<option value="A108">A108</option>
+		<option value="A109">A109</option>
+		<option value="A111">A111</option>
+		<option value="A112">A112</option>
+		<option value="A201">A201</option>
+		<option value="A203">A203</option>
+		<option value="A205">A205</option>
+		<option value="A206">A206</option>
+		<option value="A207">A207</option>
+		<option value="A209">A209</option>
+		<option value="A210">A210</option>
+		<option value="A305">A305</option>
+		<option value="A307">A307</option>
+		<option value="A309">A309</option>
+		<option value="A310">A310</option>
+		<option value="A311">A311</option>
+		<option value="A312">A312</option>
+		<option value="A401">A401</option>
+		<option value="A403">A403</option>
+		<option value="A407">A407</option>
+		<option value="A409">A409</option>
+		<option value="A410">A410</option>
+		<option value="A411">A411</option>
+		<option value="A412">A412</option>
+		<option value="A413">A413</option>
+		<option value="A414">A414</option>
+		<option value="A501">A501</option>
+		<option value="A503">A503</option>
+		<option value="A506">A506</option>
+		<option value="A507">A507</option>
+		<option value="A509">A509</option>
+		<option value="A510">A510</option>
+		<option value="A511">A511</option>
+		<option value="A512">A512</option>
+		<option value="A513">A513</option>
+		<option value="A514">A514</option>
+		<option value="A601">A601</option>
+		<option value="A603">A603</option>
+		<option value="A606">A606</option>
+		<option value="A607">A607</option>
+		<option value="A609">A609</option>
+		<option value="A610">A610</option>
+		<option value="A611">A611</option>
+		<option value="A612">A612</option>
+		<option value="A613">A613</option>
+		<option value="A614">614</option>
+		<option value="A705">A705</option>
+		<option value="A709">A709</option>
+		<option value="B103">B103</option>
+		<option value="B104">B104</option>
+		<option value="B202">B202</option>
+		<option value="B203">B203</option>
+		<option value="B204">B204</option>
+		<option value="B205">B205</option>
+		<option value="B206">B206</option>
+		<option value="B301">B301</option>
+		<option value="B303">B303</option>
+		<option value="B401">B501</option>
+		<option value="X-101">X-101</option>
+		<option value="X-102">X-102</option>
+		<option value="X-103">X-103</option>
+		<option value="X-104">X-104</option>
+		<option value="X-106">X-106</option>
+		<option value="X-201">X-201</option>
+		<option value="X-202">X-202</option>
+		<option value="X-203">X-203</option>
+		<option value="X-205">X-205</option>
+		<option value="X-206">X-206</option>
+		<option value="X-207">X-207</option>
+		<option value="X-208">X-208</option>
+		<option value="X-301">X-301</option>
+		<option value="X-302">X-302</option>
+		<option value="X-303">X-303</option>
+		<option value="X-305">X-305</option>
+		<option value="X-306">X-306</option>
+		<option value="X-307">X-307</option>
+		<option value="X-308">X-308</option>
+		<option value="X-401">X-401</option>
+		<option value="X-402">X-402</option>
+		<option value="X-403">X-403</option>
+		<option value="X-405">X-405</option>
+		<option value="X-406">X-406</option>
+		<option value="X-407">X-407</option>
+		<option value="X-408">X-408</option>
+		<option value="X-501">X-501</option>
+		<option value="X-502">X-502</option>
+		<option value="X-503">X-503</option>
+		<option value="X-505">X-505</option>
+		<option value="X-506">X-506</option>
+		<option value="X-507">X-507</option>
+		<option value="X-508">X-508</option>
+		<option value="BL-101">BL-101</option>
+		<option value="BL-201">BL-201</option>
+		<option value="BL-202">BL-202</option>
+		<option value="BL-301">BL-301</option>
+		<option value="BL-302">BL-302</option>
+	</select>
+	</p>
+<h3>计算机状况</h3>
+<div id="ishow">
+<ul><!-- ul1    -->
+<li><label><input type="checkbox" checked class="iptshow" name="computer" value="1">计算机状态正常</label></li>
+<li><label><input type="checkbox" class="iptshow" name="computer" value="计算机启动慢卡顿等软件故障"> 计算机启动慢卡顿等软件故障</label></li>
+</ul>
+<ul><!-- ul2    -->
+<li><label><input type="checkbox" class="iptshow" name="computer" value="键盘鼠标等硬件故障"> 键盘鼠标等硬件故障</label></li>
+</li>
+</ul>
+</div>
+<script>
+var id="computer";
+var sp="sp1";
+form(id,sp);
+</script>
+                
+<div class="boxc">
+<h3>功放音响状况</h3>
+<div id="ishow">
+<ul><!-- ul1    -->
+<li><label><input type="checkbox" checked  name="audio" class="iptshow" value="1"> 功放音响状态正常</label></li>
+<li><label><input type="checkbox" name="audio" class="iptshow" value="话筒无声音或者声音小"> 话筒无声音或者声音小</label> </li>
+</ul>
+<ul><!-- ul2    -->
+<li><label><input type="checkbox" name="audio" class="iptshow" value="电脑无声音或者声音小"> 电脑无声音或者声音小</label> </li>
+
+</li>
+</ul>
+</div>
+<script>
+	var id="audio";
+	var sp="sp2";
+	form(id,sp);
+</script>
+
+<div class="boxc">
+<h3>投影机状况</h3>
+<div id="ishow">
+<ul><!-- ul1    -->
+<li><label><input type="checkbox" checked  name="tyj" class="iptshow" value="1"> 投影机状态正常</label></li>
+<li><label><input type="checkbox" name="tyj" class="iptshow" value="投影机亮度低"> 投影机亮度低</label> </li>
+</ul>
+<ul><!-- ul2    -->
+<li><label><input type="checkbox" name="tyj" class="iptshow" value="投影机严偏色或位置偏移"> 投影机严偏色或位置偏移</label> </li>
+</li>
+</ul>
+</div>
+<script>
+	var id="tyj";
+	var sp="sp3";
+	form(id,sp);
+</script>
+
+<div class="boxc">
+<h3>中控状况</h3>
+<div id="ishow">
+<ul><!-- ul1    -->
+<li><label><input type="checkbox" checked  name="zk" value="1" class="iptshow" > 中控状态正常</label></li>
+<li><label><input type="checkbox" name="zk" value="刷卡不能正常开启系统"  class="iptshow"> 刷卡不能正常开启系统</label> </li>
+</ul>
+<ul><!-- ul2    -->
+<li><label><input type="checkbox" name="zk" value="电话机故障"  class="iptshow"> 电话机故障</label></li>
+</ul>
+</div>
+<script>
+	var id="zk";
+	var sp="sp4";
+	form(id,sp);
+</script>
+
+<div class="boxc">
+<h3>激光笔状况</h3>
+<div id="ishow">
+<ul><!-- ul1    -->
+<li><label><input type="checkbox" checked name="jgb" class="iptshow" value="1"> 激光笔状态正常</label></li>
+<li><label><input type="checkbox" name="jgb" class="iptshow" value="激光笔无电">激光笔无电</label> 
+</li>
+</ul>
+<ul><!-- ul2    -->
+<li><label><input type="checkbox"  name="jgb" class="iptshow" value="激光笔不能翻页"> 激光笔不能翻页</label></li>
+</li>
+</ul>
+</div>
+<script>
+	var id="jgb";
+	var sp="sp5";
+	form(id,sp);
+</script>
+</div>
+
+
+<div class="boxc">
+                <h3>详细的描述您的问题或者其他意见建议</h3>
+                <!--<div id="ishow">
+                </div>-->
+            <p><textarea  id="data8" cols="45" rows="1" class="txt"></textarea></p>
+            <p style="padding-left:150px;">
+			<input type="submit" name="button" id="submit" value="提交反馈" class="btn">
+			<input type="button" name="close" onclick="javascript:close_window();" id="close" value="放弃返回" class="btn">
+			</p>
+			<div class="foot"><a href="">河北科技师范学院多媒体管理中心</a></div>
+		</div>
+</div><!--end wrap-->
+<script type="text/javascript" src="/jiaowu/Public/home/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		var data7='';
+		$("#name").blur(function(){
+			$.ajax({
+					async: true,
+					url:"/jiaowu/index.php/Home/Feddback/cuser",
+					type:"POST",
+					data:{
+					name:$("#name").val()},
+					dataType: "html",
+					success: function(data){
+						$("#tname").text(data+"老师，欢迎您");
+						data7=data;
+					    //alert(data);
+				  }
+				})
+			
+		})
+		
+		
+		
+		$("input[name='button']").click(function(){
+		var z1,z2,z3,z4,z5,z6,z7;
+		var name=$("#name");
+		if(name.val()==""){alert("请输入您的工号");}else{z6=6;}
+		var select=$("#select");
+		if(select.val()==""){alert("请选择教室");}else{z7=7;}
+		
+		var computers=$("input[name='computer']");
+		if((computers[0].checked||computers[1].checked||computers[2].checked||computers[3].checked)==false){
+			alert("至少选择一电脑状态选项，谢谢您的配合");
+		}else{z1=1;}
+		var audios=$("input[name='audio']");
+		if((audios[0].checked||audios[1].checked||audios[2].checked||audios[3].checked)==false){
+			alert("至少选择一个功放状态选项，谢谢您的配合");
+		}else{z2=2;}
+		var tyjs=$("input[name='tyj']");
+		if((tyjs[0].checked||tyjs[1].checked||tyjs[2].checked||tyjs[3].checked)==false){
+			alert("至少选择一个投影机状态选项，谢谢您的配合");
+		}else{z3=3;}
+		var zks=$("input[name='zk']");
+		if((zks[0].checked||zks[1].checked||zks[2].checked||zks[3].checked)==false){
+			alert("至少选择一个中控状态选项，谢谢您的配合");
+		}else{z4=4;}
+		var jgbs=$("input[name='jgb']");
+		if((jgbs[0].checked||jgbs[1].checked||jgbs[2].checked||jgbs[3].checked)==false){
+			alert("至少选择一个激光笔状态选项，谢谢您的配合");
+		}else{z5=5;}
+		console.log((z1&&z2&&z3&&z4&&z5&&z6&&z7));
+		if((z1&&z2&&z3&&z4&&z5&&z6&&z7)==7){
+			var data1=($("input[name='computer']:checked").serialize());
+			var data2=($("input[name='audio']:checked").serialize());
+			var data3=($("input[name='tyj']:checked").serialize());
+			var data4=($("input[name='zk']:checked").serialize());
+			var data5=($("input[name='jgb']:checked").serialize());
+			var data6=($("#select")).val();
+			var data8=($("#data8")).val();
+			
+			
+				$.ajax({
+					async: true,
+					url:"/jiaowu/index.php/Home/Feddback/charu",
+					type:"POST",
+					dataType:"html",
+					data:{'data1':data1,'data2':data2,'data3':data3,'data4':data4,'data5':data5,'data6':data6,'data7':data7,'data8':data8},
+					success: function(data){	
+					alert("提交成功");
+					window.location.href=""
+					}
+				
+				})
+		
+//		 	var test=($("input[name='zk']:checked").serialize());
+//		console.log(test);
+//		var test=$("input[name='zk']:checked");
+//		console.log(test.serialize());
+	}		
+			
+	
+		
+		
+		
+		
+		});
+	
+	});
+</script>
+</body>
+</html>

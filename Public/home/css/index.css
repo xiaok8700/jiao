@@ -1,0 +1,47 @@
+@charset:utf-8;
+.conLeft{
+	float: left;
+}
+.leftTop,.leftBottom{
+	background:#fff url(../images/circular.png) no-repeat;
+	width:650px;
+	margin-top:20px;
+}
+.tz{
+	font-size:24px;
+	font-family:"微软雅黑";
+	color:#fff;
+	padding-left:12px;
+}
+.gd:link,.gd:visited{
+	float: right;
+	padding-top:12px;
+	padding-right:20px;
+	font-size:20px;
+	text-decoration: none;
+}
+.gd:hover,{
+	text-decoration:underline;
+	color:#084693;
+}
+.conLeft ul{
+	list-style: none;
+	padding:10px 0px;
+}
+.conLeft ul li{
+	height:40px;
+	border-bottom:1px dashed #ccc;
+	line-height: 40px;
+	background:url(../images/li.png) no-repeat;
+	padding-left:20px;
+}
+.conLeft ul li a{
+	color:#666;
+}
+.conLeft ul li a:hover{
+	color:#00f;
+}
+
+#carousel-example-generic{
+	width:650px;
+}
